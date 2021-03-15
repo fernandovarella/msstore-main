@@ -1,6 +1,7 @@
 HELP.md
 
-services/
+services/*
+!services/.keep
 
 ### VS Code ###
 .vscode/
